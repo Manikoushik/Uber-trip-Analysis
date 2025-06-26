@@ -38,7 +38,7 @@ To create an interactive Power BI dashboard that enables stakeholders to:
 
 | Overview Tab | Time Analysis Tab | Details Tab |
 |--------------|-------------------|-------------|
-| ![Overview](Dashboards/Dashboard1.png) | ![Time Analysis](Images/dashboard-screenshot2.png) | ![Details](Images/dashboard-screenshot3.png) |
+| ![Overview](Dashboards/Dashboard1.png) | ![Time Analysis](Dashboards/Dashboard2.png) | ![Details](Dashboards/Dashboard3.png) |
 
 ---
 
